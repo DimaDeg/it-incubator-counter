@@ -1,0 +1,36 @@
+.app{
+    display: inline-block;
+    background-color: #282c34;
+    width: 400px;
+    height: 350px;
+    margin: 50px;
+    border-radius: 30px;
+    border: 2px white solid;
+    position: relative;
+    top: 250px
+}
+
+.value{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    border-radius: 20px;
+    height: 200px;
+    background-color: #61dafb;
+    font-size: 30px;
+    color: #282c34;
+
+}
+.max{
+    margin: 20px;
+    border-radius: 20px;
+    font-size: 50px;
+    color: red;
+    background-color: #61dafb;
+}
+.border{
+    border: 2px white solid;
+    margin: 20px;
+    border-radius: 20px;
+}

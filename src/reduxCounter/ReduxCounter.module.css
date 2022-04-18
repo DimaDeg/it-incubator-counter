@@ -1,0 +1,17 @@
+.app{
+    display: inline-block;
+    background-color: #282c34;
+    width: 480px;
+    height: 350px;
+    margin: 50px;
+    border-radius: 30px;
+    border: 2px white solid;
+    position: relative;
+    left: 35%;
+    top: 250px
+}
+.button{
+
+    display: flex;
+    justify-content: center;
+}
